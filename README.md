@@ -1,7 +1,8 @@
-# Tastewise x Luka Cerrutti - Transcript-Based Salesforce Report
+# Tastewise x Luka Cerrutti
 
-<p>
+<p align="center">
   <img src="assets/tastewise-logo.svg" alt="Tastewise logo" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/lc-favicon.ico" alt="Luka Cerrutti favicon" height="48">
 </p>
 
@@ -46,11 +47,13 @@ Environment variables are loaded from `.env`. Required keys are `TOGETHER_API_KE
 
 ## Video Demo
 
-TODO: Record a short run-through showing `ts-1.txt` producing an opportunity JSON and `ts-2.txt` abstaining.
+[Watch the demo video](assets/demo.mp4) showing `ts-1.txt` producing an opportunity JSON and `ts-2.txt` abstaining.
 
 ## Visual Graph
 
-![Agent graph](assets/agent-graph.png)
+<p align="center">
+  <img src="assets/agent-graph.png" alt="Agent graph">
+</p>
 
 - `read_transcript`: loads the transcript text from disk.
 - `evaluate_abstain`: scores transcript value and confidence, then computes `value_index`.
