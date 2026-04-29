@@ -47,11 +47,13 @@ Environment variables are loaded from `.env`. Required keys are `TOGETHER_API_KE
 
 ## Video Demo
 
-<video src="assets/demo.mp4" controls width="100%">
-  Demo video showing `ts-1.txt` producing an opportunity JSON and `ts-2.txt` abstaining.
-</video>
+<p align="center">
+  <a href="https://youtu.be/mQTei5VKtAk">
+    <img src="https://img.youtube.com/vi/mQTei5VKtAk/hqdefault.jpg" alt="Demo video" width="640">
+  </a>
+</p>
 
-If the embedded player does not render, open [`assets/demo.mp4`](assets/demo.mp4).
+[Watch the demo on YouTube](https://youtu.be/mQTei5VKtAk), showing `ts-1.txt` producing an opportunity JSON and `ts-2.txt` abstaining.
 
 ## Visual Graph
 
